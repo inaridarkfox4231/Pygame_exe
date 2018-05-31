@@ -1,5 +1,6 @@
 """
 TETRIS.
+左右のキーで移動、↑キーで回転。
 """
 import pygame
 from pygame.locals import *
