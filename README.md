@@ -1,5 +1,5 @@
 # Pygame_exe
-Pythonで作ったゲームをexeファイルにしてみた。
+Pythonで作ったゲームをexeファイルにしてみた。dist→downloadからZIP形式でダウンロードできる。
 ## fox_and_ball
 　ボールが跳ね回るだけ。狐の鳴き声、謎のウサギ、壁に当たると打撃音。つまりゲームではない。
 ## snake_Action
