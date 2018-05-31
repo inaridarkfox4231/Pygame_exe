@@ -4,7 +4,7 @@
 # リフトをブロックと共演させたい。
 
 # リフト列の実装
-# ゴールに入って↑キーでクリア、の仕様
+# 壁ジャンプ追加。
 
 import pygame
 from pygame.locals import *
