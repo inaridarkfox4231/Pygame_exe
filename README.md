@@ -15,4 +15,5 @@ Pythonで作ったゲームをexeファイルにしてみた。dist→download�
 3. JUNK MODE  
 　あらかじめランダムに配置された灰色のブロック(ジャンク)を全て消すとクリア。5つのステージがある。  
 4. RANK MODE  
-　ランキングを見ることができる。スコアの登録は各モードクリア時に行うことができる。
+　ランキングを見ることができる。スコアの登録は各モードクリア時に行うことができる。  
+ ![sampleimage](https://github.com/inaridarkfox4231/Pygame_exe/blob/sample/sampleimages/tetris3.PNG)
