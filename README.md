@@ -1,5 +1,6 @@
 # Pygame_exe
-Pythonで作ったゲームをexeファイルにしてみた。dist→downloadからZIP形式でダウンロードできる。
+Pythonで作ったゲームをexeファイルにしてみた。dist→downloadからZIP形式でダウンロードできる。  
+twitter:https://twitter.com/inaba_darkfox?lang=ja
 ## fox_and_ball
 　ボールが跳ね回るだけ。狐の鳴き声、謎のウサギ、壁に当たると打撃音。つまりゲームではない。  
  ![sampleimage](https://github.com/inaridarkfox4231/Pygame_exe/blob/sample/sampleimages/fox_and_ball.PNG)
