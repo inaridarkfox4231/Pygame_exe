@@ -1,9 +1,6 @@
 # Pygame_exe
 Pythonで作ったゲームをexeファイルにしてみた。dist→downloadからZIP形式でダウンロードできる。  
 twitter:https://twitter.com/inaba_darkfox?lang=ja
-## fox_and_ball
-　ボールが跳ね回るだけ。狐の鳴き声、謎のウサギ、壁に当たると打撃音。つまりゲームではない。  
- ![sampleimage](https://github.com/inaridarkfox4231/Pygame_exe/blob/sample/sampleimages/fox_and_ball.PNG)
 ## snake_Action
 　ヘビが動くアクションゲーム。左右キーで移動、スペースキーでジャンプ。右端に行ったら終わり、特に終わる感じはない。途中、壁に当たりながら反対のキーを押してスペースキーを押す「壁ジャンプ」を使わないといけないところがある。bボタンを押しながら移動するとダッシュできる。  
  ![sampleimage](https://github.com/inaridarkfox4231/Pygame_exe/blob/sample/sampleimages/snake_Action.PNG)
@@ -18,3 +15,6 @@ twitter:https://twitter.com/inaba_darkfox?lang=ja
 4. RANK MODE  
 　ランキングを見ることができる。スコアの登録は各モードクリア時に行うことができる。  
  ![sampleimage](https://github.com/inaridarkfox4231/Pygame_exe/blob/sample/sampleimages/tetris3.PNG)
+ ## fox_and_ball
+　ボールが跳ね回るだけ。狐の鳴き声、謎のウサギ、壁に当たると打撃音。つまりゲームではない。  
+ ![sampleimage](https://github.com/inaridarkfox4231/Pygame_exe/blob/sample/sampleimages/fox_and_ball.PNG)
