@@ -1,5 +1,5 @@
 fox_and_ball
-�L�c�l�̖��������X�Ɩ苿�����A�{�[�����������ƒ��ˉ�邾���B
-http://aidiary.hatenablog.com/entry/20080507/1269694935 ����̋L����
-�Q�l�ɂ��āAPygame�_�E�����[�h���č���Ă݂����́B
-�Q�[���ł͂Ȃ��i���炩�j�B
+キツネの鳴き声が延々と鳴り響く中、ボールが所狭しと跳ね回るだけ。
+http://aidiary.hatenablog.com/entry/20080507/1269694935 さんの記事を
+参考にして、Pygameダウンロードして作ってみたもの。
+ゲームではない（明らか）。
