@@ -2,9 +2,11 @@
 Pythonで作ったゲームをexeファイルにしてみた。dist→downloadからZIP形式でダウンロードできる。  
 twitter:https://twitter.com/inaba_darkfox?lang=ja  
 ## blockbreak  
-　ブロック崩し。パドルを動かしてブロックを壊すゲーム。  
-  色が5種類あって青いのが一番壊れにくい。黄色が壊れやすい。緑と黄緑は硬いのでスピードがないと壊せない。ピンクは1UP.  
- ![sampleimages](https://github.com/inaridarkfox4231/Pygame_exe/blob/sample/sampleimages/blockbreak.PNG)
+　ブロック崩し。パドルを動かしてボールに当ててブロックを壊すゲーム。  
+　パドル移動はマウス操作で行う。右クリックで発射、左クリックでスピードアップ（当たるときにクリック）。  
+　黄色→オレンジ→赤→紫→青の順にタフになってる。緑と黄緑はスピードアップ時でないと壊せない。  
+　ピンクのは当てるとライフが＋１.  
+ ![sampleimage](https://github.com/inaridarkfox4231/Pygame_exe/blob/sample/sampleimages/blockbreak.PNG)
 ## snake_Action
 　ヘビが動くアクションゲーム。左右キーで移動、スペースキーでジャンプ。右端に行ったら終わり、特に終わる感じはない。途中、壁に当たりながら反対のキーを押してスペースキーを押す「壁ジャンプ」を使わないといけないところがある。bボタンを押しながら移動するとダッシュできる。  
  ![sampleimage](https://github.com/inaridarkfox4231/Pygame_exe/blob/sample/sampleimages/snake_Action.PNG)
