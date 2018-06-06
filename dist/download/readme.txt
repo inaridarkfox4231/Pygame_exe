@@ -1,0 +1,6 @@
+内容説明：
+　blockbreak：ブロック崩し。
+　fox_and_ball：ボールが跳ね回るやつ。操作はなし。
+　snake_Action：へびがジャンプするやつ。
+　tetris3：テトリス。
+　bbprototype：ブロック崩しの原型。使うキーは右、左、上のキーボード。それだけ。
