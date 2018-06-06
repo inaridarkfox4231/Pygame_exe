@@ -1,6 +1,6 @@
-���e�����F
-�@blockbreak�F�u���b�N�����B���C���̃u���b�N�����͂������Ȃ̂Œ��ӁB
-�@fox_and_ball�F�{�[�������ˉ���B����͂Ȃ��B
-�@snake_Action�F�ւт��W�����v�����B
-�@tetris3�F�e�g���X�B3�̃��[�h������B
-�@bbprototype�F�u���b�N�����̌��^�B�g���L�[�͉E�A���A��̃L�[�{�[�h�B���ꂾ���B
+内容説明：
+　blockbreak：ブロック崩し。メインのブロック崩しはこっちなので注意。
+　fox_and_ball：ボールが跳ね回るやつ。操作はなし。
+　snake_Action：へびがジャンプするやつ。
+　tetris3：テトリス。3つのモードがある。
+　bbprototype：ブロック崩しの原型。使うキーは右、左、上のキーボード。それだけ。
