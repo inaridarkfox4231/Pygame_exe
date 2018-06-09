@@ -1,2 +1,3 @@
-exeファイルのダウンロードは→download
+﻿exeファイルのダウンロードは→download
+
 ソースコードのダウンロードは→sources
